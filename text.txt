@@ -1,1 +1,2 @@
-learning git
+print("DEKU")
+print("ORIHIME")
